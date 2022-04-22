@@ -1,0 +1,37 @@
+/* *{
+    margin: 0;
+    width: 0;
+    height: 0;
+} */
+
+.top{
+    background-color: aqua;
+}
+.row{
+    
+    min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+img{
+    height: 200px;
+}
+
+.middle{
+    background-color: blue;
+    
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+.bottom{
+    background-color: brown;
+    
+    
+    
+}
